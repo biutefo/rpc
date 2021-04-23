@@ -1,0 +1,9 @@
+# Project exclude paths
+/rpc-api/target/
+/rpc-client/target/
+/rpc-common/target/
+/rpc-consumer/target/
+/rpc-provider/target/
+/rpc-registry-api/target/
+/rpc-registry-zk/target/
+/rpc-server/target/
